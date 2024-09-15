@@ -1,0 +1,4 @@
+1.  let is a scope based and cannot be hoisted.  Var is accessable in the entire file and can be hoisted.
+2.  const is scope based, cannot be hoisted, and cannot be changed.  Var is entirely accessable, can be changed, and can be hoisted.
+3.  Let can be changed const cannot.
+4.  Hoisting is when you use a variable before it's defined.
